@@ -1,0 +1,5 @@
+psutil
+numpy
+pandas
+streamlit
+rapidfuzz
